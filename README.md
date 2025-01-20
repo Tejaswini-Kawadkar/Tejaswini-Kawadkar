@@ -23,7 +23,7 @@ I am an enthusiastic data science engineer passionate about transforming data in
 - 🔭 I’m currently working on Machine Learning and Deep learning Projects.
 - 👯 I’m looking to collaborate on open source projects related to data science.
 - 💬 Ask me about Data Analytics, Machine Learning, SQL.
-- 🤝 I'm open to collaborating on Projects
+- 🤝 I'm open to collaborate on Projects
 - ⚡ I like to learn new languages. I am a beginner in German, Japanese, and Spanish.
 
 Technologies & Tools
