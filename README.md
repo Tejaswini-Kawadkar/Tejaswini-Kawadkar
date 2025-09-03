@@ -65,6 +65,11 @@ Tools
 
 [![](https://visitcount.itsvg.in/api?id=Tejaswini-Kawadkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+### Achievements
+Research Paper: Published research paper "Design of Automated Model for Citrus Fruits and Leaves Disease Detection"in a Scopus-indexed journal *Journal of Information Systems Engineering and Management(JISEM)*
+<a href="https://jisem-journal.com/index.php/journal/article/view/6417"> Link </a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 --------------
 ### Socials
