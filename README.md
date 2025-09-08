@@ -81,19 +81,23 @@ Tools
 --------------
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Tejaswini-Kawadkar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tejaswini-kawadkar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/tejaswini_kawadkar" target="_blank" rel="noreferrer"> 
+<p align="left"> 
+  <a href="https://www.github.com/Tejaswini-Kawadkar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> 
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/tejaswini-kawadkar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.hackerrank.com/profile/tejaswini_kawadkar" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="32" height="32" /> 
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tejaswini11k@gmail.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" alt="Email"/> 
-</a> 
-
-<a href="https://tejaswini-kawadkar.github.io/portfolio/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="32" height="32" alt="Portfolio"/> 
-</a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tejaswini11k@gmail.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" alt="Email"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://tejaswini-kawadkar.github.io/portfolio/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="32" height="32" alt="Portfolio"/> 
+  </a>
 </p>
 
