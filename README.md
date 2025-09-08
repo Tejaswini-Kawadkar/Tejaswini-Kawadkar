@@ -91,7 +91,8 @@ Tools
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tejaswini11k@gmail.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" alt="Email"/> 
 </a> 
-<a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer"> 
+
+<a href="https://tejaswini-kawadkar.github.io/portfolio/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="32" height="32" alt="Portfolio"/> 
 </a>
 </p>
